@@ -1,5 +1,5 @@
 # Botium-Toys-Audit
-![Audit Checklist](path/to/Audit.jpeg)
+![Audit Checklist](Audit.jpeg)
 
 A cybersecurity internal audit project for Botium Toys.
 
