@@ -16,7 +16,7 @@ This project involves conducting an internal IT audit for Botium Toys, a fiction
 - **Tools:** Manual assessment and documentation.
 
 ## Files in This Repository
-- Controls-and-Compliance-Checklist.pdf [Controls and Compliance Checklist](Botium-Toys-Audit/Controls%20and%20compliance%20checklist.pdf)
+- [Controls and Compliance Checklist](Botium-Toys-Audit/Controls%20and%20compliance%20checklist.pdf)
 : Completed checklist.
 - Summary-Report.md: Overview of audit findings and recommendations.
 - Supporting-Materials/: Reference documents.
